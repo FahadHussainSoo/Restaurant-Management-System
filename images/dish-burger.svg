@@ -1,0 +1,27 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg-burger" cx="50%" cy="42%" r="65%">
+      <stop offset="0%" stop-color="#fff4ea"/>
+      <stop offset="100%" stop-color="#ffe4c9"/>
+    </radialGradient>
+  </defs>
+  <circle cx="100" cy="100" r="96" fill="url(#bg-burger)"/>
+  <!-- bottom bun -->
+  <path d="M40 128 Q40 148 60 148 L140 148 Q160 148 160 128 L160 122 L40 122 Z" fill="#c97a3d"/>
+  <!-- patty -->
+  <rect x="38" y="112" width="124" height="14" rx="7" fill="#6b3a26"/>
+  <!-- cheese -->
+  <path d="M34 108 L166 108 L156 122 L44 122 Z" fill="#f4b93c"/>
+  <!-- lettuce -->
+  <path d="M32 100 q8 -12 20 -4 q8 -10 20 2 q10 -12 22 -2 q10 -10 20 0 q10 -10 20 2 q10 -8 18 2 l-4 10 -116 0 Z" fill="#6faa4a"/>
+  <!-- tomato -->
+  <rect x="46" y="92" width="108" height="10" rx="5" fill="#d9463a"/>
+  <!-- top bun -->
+  <path d="M42 92 Q42 54 100 50 Q158 54 158 92 Z" fill="#e0954f"/>
+  <path d="M100 50 Q158 54 158 92 L42 92 Q42 54 100 50 Z" fill="#e0954f"/>
+  <circle cx="78" cy="66" r="3" fill="#fff3df"/>
+  <circle cx="100" cy="60" r="3" fill="#fff3df"/>
+  <circle cx="122" cy="67" r="3" fill="#fff3df"/>
+  <circle cx="90" cy="74" r="3" fill="#fff3df"/>
+  <circle cx="112" cy="76" r="3" fill="#fff3df"/>
+</svg>

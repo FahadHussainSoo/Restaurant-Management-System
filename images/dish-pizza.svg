@@ -1,0 +1,21 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg-pizza" cx="50%" cy="42%" r="65%">
+      <stop offset="0%" stop-color="#fff4ea"/>
+      <stop offset="100%" stop-color="#ffe4c9"/>
+    </radialGradient>
+  </defs>
+  <circle cx="100" cy="100" r="96" fill="url(#bg-pizza)"/>
+  <path d="M100 45 L156 152 Q100 172 44 152 Z" fill="#f2b53e"/>
+  <path d="M100 45 L156 152 Q100 172 44 152 Z" fill="#e2892f" opacity="0.0"/>
+  <path d="M56 145 L100 60 L144 145 Q100 158 56 145 Z" fill="#e8a23a"/>
+  <path d="M100 45 L156 152 Q100 172 44 152 Z" fill="none" stroke="#c97a2d" stroke-width="4" stroke-linejoin="round"/>
+  <circle cx="90" cy="95" r="9" fill="#d9463a"/>
+  <circle cx="118" cy="112" r="8" fill="#d9463a"/>
+  <circle cx="100" cy="132" r="7" fill="#d9463a"/>
+  <circle cx="75" cy="122" r="6" fill="#d9463a"/>
+  <circle cx="108" cy="80" r="5" fill="#6faa4a"/>
+  <circle cx="128" cy="98" r="4" fill="#6faa4a"/>
+  <circle cx="85" cy="140" r="4" fill="#6faa4a"/>
+  <circle cx="70" cy="100" r="4" fill="#6faa4a"/>
+</svg>

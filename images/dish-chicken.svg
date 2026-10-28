@@ -1,0 +1,16 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg-chicken" cx="50%" cy="42%" r="65%">
+      <stop offset="0%" stop-color="#fff4ea"/>
+      <stop offset="100%" stop-color="#ffe4c9"/>
+    </radialGradient>
+  </defs>
+  <circle cx="100" cy="100" r="96" fill="url(#bg-chicken)"/>
+  <path d="M78 60 Q60 70 62 96 Q64 118 86 130 Q84 145 76 156 L96 156 Q100 145 100 130 Q116 128 124 112 Q136 116 144 104 Q134 96 132 84 Q142 78 140 66 Q126 62 118 72 Q104 56 88 58 Q82 58 78 60 Z" fill="#d98a3d"/>
+  <path d="M78 60 Q60 70 62 96 Q64 118 86 130 Q84 145 76 156 L96 156 Q100 145 100 130 Q116 128 124 112 Q136 116 144 104 Q134 96 132 84 Q142 78 140 66 Q126 62 118 72 Q104 56 88 58 Q82 58 78 60 Z" fill="none" stroke="#b76a26" stroke-width="3"/>
+  <circle cx="90" cy="88" r="4" fill="#7a4420"/>
+  <circle cx="106" cy="92" r="4" fill="#7a4420"/>
+  <circle cx="98" cy="106" r="4" fill="#7a4420"/>
+  <circle cx="116" cy="100" r="4" fill="#7a4420"/>
+  <circle cx="82" cy="104" r="4" fill="#7a4420"/>
+</svg>

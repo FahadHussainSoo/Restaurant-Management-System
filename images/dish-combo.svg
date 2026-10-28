@@ -1,0 +1,29 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg-combo" cx="50%" cy="42%" r="65%">
+      <stop offset="0%" stop-color="#fff4ea"/>
+      <stop offset="100%" stop-color="#ffe4c9"/>
+    </radialGradient>
+  </defs>
+  <circle cx="100" cy="100" r="96" fill="url(#bg-combo)"/>
+  <!-- fries left -->
+  <path d="M28 118 L64 118 L58 160 Q46 165 34 160 Z" fill="#e0641a"/>
+  <path d="M28 118 L64 118 L61 126 L31 126 Z" fill="#fff"/>
+  <g fill="#f4c14a">
+    <rect x="32" y="92" width="7" height="30" rx="3"/>
+    <rect x="42" y="86" width="7" height="36" rx="3"/>
+    <rect x="52" y="94" width="7" height="28" rx="3"/>
+  </g>
+  <!-- drink right -->
+  <path d="M138 96 L178 96 L172 162 Q158 168 144 162 Z" fill="#e0641a"/>
+  <path d="M138 96 L178 96 L175 108 L141 108 Z" fill="#ffb703"/>
+  <rect x="154" y="76" width="9" height="20" rx="4" fill="#fff"/>
+  <!-- burger center front -->
+  <path d="M62 150 Q62 164 76 164 L124 164 Q138 164 138 150 L138 146 L62 146 Z" fill="#c97a3d"/>
+  <rect x="60" y="138" width="80" height="10" rx="5" fill="#6b3a26"/>
+  <path d="M58 132 L142 132 L136 146 L64 146 Z" fill="#f4b93c"/>
+  <path d="M64 108 Q100 96 136 108 Q136 128 100 132 Q64 128 64 108 Z" fill="#e0954f"/>
+  <circle cx="88" cy="112" r="2.4" fill="#fff3df"/>
+  <circle cx="100" cy="108" r="2.4" fill="#fff3df"/>
+  <circle cx="112" cy="113" r="2.4" fill="#fff3df"/>
+</svg>
